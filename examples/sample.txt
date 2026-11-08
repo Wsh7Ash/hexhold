@@ -1,0 +1,1 @@
+Play interactively: python -m hexhold — enter q,r moves. AI answers greedily.

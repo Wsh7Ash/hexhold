@@ -1,0 +1,13 @@
+. . .
+ . . . .
+  . . X O .
+   . . O X
+    . . .
+scores: {'X': 2, 'O': 2, 'empty': 15}  turn: X
+AI move: (-1, 1)
+. . .
+ . . . .
+  . . X O .
+   . X X X
+    . . .
+scores: {'X': 4, 'O': 1, 'empty': 14}  turn: O
